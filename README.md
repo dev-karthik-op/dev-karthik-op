@@ -137,7 +137,7 @@ I combine **practical mobile development experience** with cutting-edge training
 
 ---
 
-## 🏆 Flagship Project
+## 🏆 Project
 
 <div align="center">
 
@@ -346,17 +346,6 @@ I combine **practical mobile development experience** with cutting-edge training
 [![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-karthik-op)
-
-<br/><br/>
-
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║   "The best way to predict the future is to build it."           ║
- ║                                          — Alan Kay              ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
