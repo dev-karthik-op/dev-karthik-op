@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ─── Animated Header ─── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Karthik%20O%20P&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%20%E2%80%A2%20%20AI%20Enthusiast%20%20%E2%80%A2%20%20Learning%20DevOps&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Karthik%20O%20P&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%20%E2%80%A2%20%20AI%20Enthusiast%20%20%E2%80%A2%20%20Learning%20DevOps&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- ─── Dynamic Typing ─── -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Shipping+Flutter+apps+from+idea+to+Play+Store+%F0%9F%9A%80;Building+AI+Agents+powered+by+Gemini+LLMs+%F0%9F%A4%96;Engineering+real-time+Cyber+Threat+Intelligence+%F0%9F%94%90;Currently+leveling+up+in+DevOps+%E2%9A%99%EF%B8%8F;Turning+complex+problems+into+elegant+code+%E2%9C%A8)](https://git.io/typing-svg)
@@ -18,11 +18,13 @@
 ![Education](https://img.shields.io/badge/🎓_B.Voc_IT-Graduate-white?style=flat-square&labelColor=302b63)
 ![Focus](https://img.shields.io/badge/🔭_Focus-Full--Stack_|_GenAI_|_Learning_DevOps-white?style=flat-square&labelColor=302b63)
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=3&section=header" width="100%" />
+
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="30"> &nbsp;About Me
 
 <table>
 <tr>
@@ -32,8 +34,14 @@ I'm a recent **B.Voc Information Technology** graduate with practical experience
 
 I'm now expanding into **DevOps**, building on my software engineering foundation with hands-on practice in containerization, cloud infrastructure, and CI/CD pipelines.
 
-- 🎓 &nbsp;**B.Voc IT Graduate** — CMS College, Kottayam
-- 🏆 &nbsp;**1st Place, TechSpark 2026** — LogNet (Cyber Threat Intelligence Platform)
+<br/>
+
+🎓 &nbsp;**B.Voc IT Graduate** — CMS College, Kottayam
+&nbsp;&nbsp;|&nbsp;&nbsp;
+🏆 &nbsp;**1st Place, TechSpark 2026**
+
+<br/>
+
 - 📱 &nbsp;Building production-grade apps with **Flutter (Bloc/Provider)**
 - 🤖 &nbsp;Developing **AI Agents** with **Gemini LLMs** & prompt engineering
 - ⚙️ &nbsp;Currently learning **DevOps** — Docker, Linux, AWS, CI/CD
@@ -42,94 +50,78 @@ I'm now expanding into **DevOps**, building on my software engineering foundatio
 </td>
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dev-karthik-op&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&layout=compact" width="260" onerror="this.style.display='none'" />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=A78BFA&height=10&section=header" width="1" style="display:none" />
+
+🚀 _Always building, always learning_
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:A78BFA&height=3&section=header" width="100%" />
+</div>
 
-## ⚙️ Currently Learning: DevOps
+## ⚙️ Currently Learning — DevOps
 
 <div align="center">
 
 <br/>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions,terraform&theme=dark" />
 
-<br/>
+<br/><br/>
+
+![Progress](https://img.shields.io/badge/🛠️_Status-Hands--on_practice_with_containers_%26_CI%2FCD-A78BFA?style=for-the-badge&labelColor=0f0c29)
+
+<br/><br/>
 
 > Building on my software engineering background to move into infrastructure, automation, and reliability engineering — one container, one pipeline at a time.
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=3&section=header" width="100%" />
+</div>
 
 ## 🛠️ Technical Arsenal
 
 <details open>
 <summary><strong>💬 Languages</strong></summary>
 <br/>
-<p>
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=dart,py,ts,js,java,cpp,c,php,html,css,mysql&theme=dark" />
+</div>
 </details>
 
 <details open>
 <summary><strong>🎨 Frontend & Mobile</strong></summary>
 <br/>
-<p>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc_Pattern-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Next.js 14](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,nextjs,react,tailwind&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Bloc_Pattern-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</div>
 </details>
 
 <details open>
 <summary><strong>☁️ Backend & Cloud</strong></summary>
 <br/>
-<p>
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Isar DB](https://img.shields.io/badge/Isar_NoSQL-A78BFA?style=for-the-badge&logo=databricks&logoColor=white)
-
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=supabase,postgres,deno,firebase,sqlite,flask&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Isar_NoSQL-A78BFA?style=for-the-badge&logo=databricks&logoColor=white" />
+</div>
 </details>
 
 <details open>
 <summary><strong>🤖 AI, Cyber & Analytics</strong></summary>
 <br/>
-<p>
+<div align="center">
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
@@ -140,27 +132,22 @@ I'm now expanding into **DevOps**, building on my software engineering foundatio
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-</p>
+</div>
 </details>
 
 <details open>
 <summary><strong>🔧 Tools & Workflows</strong></summary>
 <br/>
-<p>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,vercel&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+</div>
 </details>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:A78BFA&height=3&section=header" width="100%" />
+</div>
 
 ## 🏆 Flagship Project
 
@@ -236,7 +223,9 @@ I'm now expanding into **DevOps**, building on my software engineering foundatio
 </tr>
 </table>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=3&section=header" width="100%" />
+</div>
 
 ## 📂 Other Projects
 
@@ -304,7 +293,9 @@ I'm now expanding into **DevOps**, building on my software engineering foundatio
 </table>
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:A78BFA&height=3&section=header" width="100%" />
+</div>
 
 ## 💼 Experience
 
@@ -342,7 +333,9 @@ I'm now expanding into **DevOps**, building on my software engineering foundatio
 </tr>
 </table>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=3&section=header" width="100%" />
+</div>
 
 ## 📈 GitHub Analytics
 
@@ -354,6 +347,7 @@ I'm now expanding into **DevOps**, building on my software engineering foundatio
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-karthik-op&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=10" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=dev-karthik-op&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="49%" />
 
 <br/>
 
@@ -361,7 +355,15 @@ I'm now expanding into **DevOps**, building on my software engineering foundatio
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:A78BFA&height=3&section=header" width="100%" />
+</div>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%" />
+
+</div>
 
 ## 🤝 Get in Touch
 
@@ -384,4 +386,4 @@ I'm now expanding into **DevOps**, building on my software engineering foundatio
 </div>
 
 <!-- ─── Footer Wave ─── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%" />
