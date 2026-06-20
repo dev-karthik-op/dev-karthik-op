@@ -1,22 +1,22 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
      KARTHIK O P — GitHub Profile README
-     Mobile App Developer · AI Enthusiast · Full-Stack Developer
+     Full-Stack Developer · AI Enthusiast · Learning DevOps
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ─── Animated Header ─── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Karthik%20O%20P&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Mobile%20App%20Developer%20%20%E2%80%A2%20%20AI%20Enthusiast%20%20%E2%80%A2%20%20Full-Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Karthik%20O%20P&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%20%E2%80%A2%20%20AI%20Enthusiast%20%20%E2%80%A2%20%20Learning%20DevOps&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- ─── Dynamic Typing ─── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Shipping+Flutter+apps+from+idea+to+Play+Store+%F0%9F%9A%80;Building+AI+Agents+powered+by+Gemini+LLMs+%F0%9F%A4%96;Engineering+real-time+Cyber+Threat+Intelligence+%F0%9F%94%90;Turning+complex+problems+into+elegant+code+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Shipping+Flutter+apps+from+idea+to+Play+Store+%F0%9F%9A%80;Building+AI+Agents+powered+by+Gemini+LLMs+%F0%9F%A4%96;Engineering+real-time+Cyber+Threat+Intelligence+%F0%9F%94%90;Currently+leveling+up+in+DevOps+%E2%9A%99%EF%B8%8F;Turning+complex+problems+into+elegant+code+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- ─── Quick Identity Badges ─── -->
 ![Location](https://img.shields.io/badge/📍_Kerala-India-white?style=flat-square&labelColor=302b63)
-![Education](https://img.shields.io/badge/🎓_B.Voc-Information_Technology-white?style=flat-square&labelColor=302b63)
-![Focus](https://img.shields.io/badge/🔭_Focus-Flutter_|_GenAI_|_Full--Stack-white?style=flat-square&labelColor=302b63)
+![Education](https://img.shields.io/badge/🎓_B.Voc_IT-Graduate-white?style=flat-square&labelColor=302b63)
+![Focus](https://img.shields.io/badge/🔭_Focus-Full--Stack_|_GenAI_|_Learning_DevOps-white?style=flat-square&labelColor=302b63)
 
 </div>
 
@@ -28,13 +28,15 @@
 <tr>
 <td width="65%">
 
-I combine **practical mobile development experience** with cutting-edge training in **Generative AI** and comprehensive full-stack workflows. I build scalable software solutions — ranging from **offline-first mobile apps** to **real-time cybersecurity threat intelligence platforms**.
+I'm a recent **B.Voc Information Technology** graduate with practical experience across **mobile development**, **Generative AI**, and **full-stack engineering**. My flagship project, **LogNet** — a real-time cyber threat intelligence platform — won **1st Place at TechSpark 2026 Project Expo**.
 
+I'm now expanding into **DevOps**, building on my software engineering foundation with hands-on practice in containerization, cloud infrastructure, and CI/CD pipelines.
+
+- 🎓 &nbsp;**B.Voc IT Graduate** — CMS College, Kottayam
+- 🏆 &nbsp;**1st Place, TechSpark 2026** — LogNet (Cyber Threat Intelligence Platform)
 - 📱 &nbsp;Building production-grade apps with **Flutter (Bloc/Provider)**
 - 🤖 &nbsp;Developing **AI Agents** with **Gemini LLMs** & prompt engineering
-- 🔐 &nbsp;Engineering distributed **Cyber Threat Intelligence** systems
-- 🌐 &nbsp;Crafting full-stack platforms with **Next.js 14** & **Supabase**
-- ⚡ &nbsp;Passionate about **offline-first architecture** & real-time data
+- ⚙️ &nbsp;Currently learning **DevOps** — Docker, Linux, AWS, CI/CD
 - 📬 &nbsp;Reach me → **[karthikop6@gmail.com](mailto:karthikop6@gmail.com)**
 
 </td>
@@ -45,6 +47,27 @@ I combine **practical mobile development experience** with cutting-edge training
 </td>
 </tr>
 </table>
+
+---
+
+## ⚙️ Currently Learning: DevOps
+
+<div align="center">
+
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+<br/>
+
+> Building on my software engineering background to move into infrastructure, automation, and reliability engineering — one container, one pipeline at a time.
+
+</div>
 
 ---
 
@@ -94,8 +117,10 @@ I combine **practical mobile development experience** with cutting-edge training
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Isar DB](https://img.shields.io/badge/Isar_NoSQL-A78BFA?style=for-the-badge&logo=databricks&logoColor=white)
 
 </p>
@@ -137,7 +162,7 @@ I combine **practical mobile development experience** with cutting-edge training
 
 ---
 
-## 🏆 Project
+## 🏆 Flagship Project
 
 <div align="center">
 
@@ -146,6 +171,8 @@ I combine **practical mobile development experience** with cutting-edge training
 <a href="https://github.com/dev-karthik-op">
 <img src="https://img.shields.io/badge/🔴_FLAGSHIP-LogNet_%E2%80%94_Cyber_Threat_Intelligence_Platform-A78BFA?style=for-the-badge&labelColor=0f0c29" />
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/🏆_1st_Place-TechSpark_2026_Project_Expo-FFD700?style=for-the-badge&labelColor=0f0c29" />
 
 <br/><br/>
 
@@ -216,10 +243,11 @@ I combine **practical mobile development experience** with cutting-edge training
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔔 Remind Me — Event Tracker
-<br/>
+### 🔔 Remind Me
+**Event Tracker**
+<br/><br/>
 
 > Cloud-connected reminder app with **real-time data syncing** across devices and **complex date-logic algorithms**.
 
@@ -227,31 +255,49 @@ I combine **practical mobile development experience** with cutting-edge training
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Cloud Sync](https://img.shields.io/badge/Cloud_Sync-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Highlights:**
-- ☁️ Real-time Firestore data syncing
+- ☁️ Real-time Firestore syncing
 - 📅 Complex date-logic algorithms
-- 🔄 Cross-device synchronization
+- 🔄 Cross-device sync
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ✅ Daily Do — Habit Optimizer
-<br/>
+### ✅ Daily Do
+**Habit Optimizer**
+<br/><br/>
 
-> Performance-critical, **offline-first** application with a highly responsive UI engineered for zero-latency habit tracking.
+> Performance-critical, **offline-first** app with a highly responsive UI engineered for zero-latency habit tracking.
 
 <br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Isar](https://img.shields.io/badge/Isar_NoSQL-A78BFA?style=flat-square&logo=databricks&logoColor=white)
-![Offline First](https://img.shields.io/badge/Offline_First-388E3C?style=flat-square&logo=pwa&logoColor=white)
 
 **Highlights:**
 - ⚡ Zero-latency local persistence
 - 🗄️ Isar NoSQL embedded database
 - 🎯 Performance-optimized UI
+
+</td>
+<td width="33%" valign="top">
+
+### 📋 AttendEase
+**Attendance Tracker**
+<br/><br/>
+
+> Lightweight Flask web app tracking subject-wise attendance with **real-time risk alerts** and a **75% recovery formula**.
+
+<br/>
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Highlights:**
+- 📊 Live attendance analytics
+- 🔴 Color-coded risk alerts
+- 🌓 Dark mode support
 
 </td>
 </tr>
@@ -265,27 +311,11 @@ I combine **practical mobile development experience** with cutting-edge training
 <table>
 <tr>
 <td width="80" align="center">
-<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Softloom-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </td>
 <td>
 
-**AI Agent Developer Intern** · *Virtual Program*
-
-`Generative AI` `AI Agents` `LLM Integration` `Prompt Engineering`
-
-- 🤖 Built and deployed functional **AI Agents** using Generative AI tools and Large Language Models
-- 🧠 Applied advanced **prompt engineering** techniques to optimize model responses and agent behavior
-- 🔗 Gained production-level experience with **LLM orchestration** and agent architecture
-
-</td>
-</tr>
-<tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/IT_Firm-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</td>
-<td>
-
-**Flutter Development Intern**
+**Flutter Development Intern** · *Softloom IT Solutions*
 
 `Flutter` `Firebase Auth` `UI Engineering` `Git` `Agile`
 
@@ -297,11 +327,11 @@ I combine **practical mobile development experience** with cutting-edge training
 </tr>
 <tr>
 <td width="80" align="center">
-<img src="https://img.shields.io/badge/IT_Firm-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/G--TEC-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </td>
 <td>
 
-**Web Development Intern**
+**Web Development Intern** · *G-TEC Computer Education*
 
 `HTML5` `CSS3` `JavaScript` `Web Hosting` `Deployment`
 
@@ -341,9 +371,7 @@ I combine **practical mobile development experience** with cutting-edge training
 
 [![Email](https://img.shields.io/badge/karthikop6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikop6@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-o-p-7b8319372)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-karthik-op)
 
